@@ -1,5 +1,5 @@
 repository="https://raw.githubusercontent.com/undistances/External/refs/heads/main/Astel.cpp"
-binary_name="roblox-check"
+binary_name="inject"
 directory="/usr/local/bin"
 
 echo "[ Astel External Installation ]"
